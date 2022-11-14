@@ -2,7 +2,7 @@
 
 * arXiv paper (Coming soon)
 * [ImageNet annotation tool](https://github.com/naver-ai/imagenet-annotation-tool)
-* ImageNet annotation byproducts (Coming soon)
+* [ImageNet-AB (annotation byproducts)](https://hybridsupervision-image-net.s3.us-east-2.amazonaws.com/repository/imagenet_ab_v1_0.tar.gz)
 * [COCO annotation tool](https://github.com/naver-ai/coco-annotation-tool)
-* COCO annotation byproducts (Coming soon)
+* [COCO-AB (annotation byproducts)](https://hybridsupervision-coco.s3.us-east-2.amazonaws.com/hybridsup/coco_ab_v1_0.json)
 * Training code (Coming soon)
