@@ -1,4 +1,4 @@
-# Neglected Free Lunch – Improving the Robustness of Image Classifiers with Annotation Byproducts
+# Neglected Free Lunch – Learning Image Classifiers Using Annotation Byproducts
 
 * arXiv paper (Coming soon)
 * [ImageNet annotation tool](https://github.com/naver-ai/imagenet-annotation-tool)
